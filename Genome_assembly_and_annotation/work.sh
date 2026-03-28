@@ -1,0 +1,1 @@
+/softs/hifiasm/hifiasm-0.16.0/hifiasm luofei.fa.gz: -o luofei.fa -t 10

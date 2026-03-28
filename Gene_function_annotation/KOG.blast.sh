@@ -1,0 +1,1 @@
+/bin/blast-2.2.26/bin/blastall  -p blastp -e 1e-05 -a 2 -m 8 -F F -d database/kog/RNA/data/kog_clean.fa -i KOG/longest.pep.fa.cut/longest.pep.fa.001 -o KOG/longest.pep.fa.cut/longest.pep.fa.001.blast.kog

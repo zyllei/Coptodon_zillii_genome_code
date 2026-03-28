@@ -1,0 +1,1 @@
+source setup.sh; Database/iprscan/interproscan-5.59-91.0/interproscan.sh -goterms -f tsv -dp  -appl PRINTS -appl Pfam -appl SMART -appl PANTHER -appl ProSiteProfiles -appl ProSitePatterns -T  Interpro/temp  -i Interpro/longest.pep.fa.cut/longest.pep.fa.001 -o Interpro/longest.pep.fa.cut/longest.pep.fa.001.iprscan; 

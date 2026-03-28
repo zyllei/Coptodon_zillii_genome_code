@@ -1,0 +1,1 @@
+diamond-0.8.23.85/diamond blastp --evalue 1e-05 --threads 5 --outfmt 5 --seg no --max-target-seqs 5 --more-sensitive -b 0.2 --salltitles -d BC_PUB_T2/nr/RNA/20211117//animal.fa -q NR/longest.pep.fa.cut/longest.pep.fa.001 -o NR/longest.pep.fa.cut/longest.pep.fa.001.blast.nr

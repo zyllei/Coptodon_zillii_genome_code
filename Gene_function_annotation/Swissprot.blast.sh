@@ -1,0 +1,1 @@
+diamond-0.8.23.85/diamond blastp --evalue 1e-05 --threads 3 --outfmt 6 --seg no --max-target-seqs 5 --more-sensitive -b 0.2 --salltitles -d database/uniprot/release-2021_03/swissport/uniprot_sprot.Eukaryota.fasta.simple -q Swissprot/longest.pep.fa.cut/longest.pep.fa.001 -o Swissprot/longest.pep.fa.cut/longest.pep.fa.001.blast.swissprot
