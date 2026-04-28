@@ -45,4 +45,4 @@ touch launch2_done\
 #touch launch3_done\
 \
 #touch second_update_done\
-#echo "Finished"}
+#echo "Finished"
