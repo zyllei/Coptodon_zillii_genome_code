@@ -1,11 +1,4 @@
-{\rtf1\ansi\ansicpg936\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww25700\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 #!/bin/bash\
+#!/bin/bash\
 export PATH=/share/app/samtools-1.9/bin/:/dellfsqd2/ST_OCEAN/USER/hankai/software/Aligner/fasta-36.3.8g/bin:$PATH\
 export PATH=/dellfsqd2/ST_OCEAN/USER/liliangwei/softs/gmap/bin/:$PATH\
 export PATH=/share/app/gcc-5.2.0/bin:$PATH;export LD_LIBRARY_PATH=/share/app/gcc-5.2.0/lib:/share/app/gcc-5.2.0/lib64:$LD_LIBRARY_PATH\
