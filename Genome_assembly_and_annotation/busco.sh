@@ -6,4 +6,4 @@ busco --offline \\\
   -m genome/gene \\\
   -c 5 \\\
   -i ./genome.fa \\\
-  -o genome_output/gene_out:}
+  -o genome_output/gene_out
