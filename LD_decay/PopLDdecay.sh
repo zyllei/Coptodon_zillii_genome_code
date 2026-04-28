@@ -5,4 +5,4 @@ perl bin/Plot_
 \f1 \cf2 \cb3 \strokec2 Multi
 \f0 \cf2 \cb3 \strokec2 Pop.pl\'a0
 \f1 \cf2 \cb3 \strokec2 -inList
-\f0 \cf2 \cb3 \strokec2 \'a0multi.list -output OutputPrefix}
+\f0 \cf2 \cb3 \strokec2 \'a0multi.list -output OutputPrefix
